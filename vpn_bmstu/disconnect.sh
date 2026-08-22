@@ -1,0 +1,1 @@
+openvpn3 session-manage --disconnect --config bmstu.ovpn
