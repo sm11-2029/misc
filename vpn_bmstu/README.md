@@ -2,6 +2,11 @@ vpn for intertnal bmstu network
 
 ### setup on ubuntu:
 
+install openvpn3
+```bash
+$ sudo apt install openvpn3
+```
+
 make executable:
 ```bash
 $ chmod +x connect.sh disconnect.sh
